@@ -37,7 +37,7 @@ timeline
     2022.07-2026.04 : JDCloud IaaS Network
                      : SDN and cloud network
                      : P4 / BGP / DPDK / OVS
-    2026.05-now : ByteDance DCS
+    2026.05-now : ByteDance Data DCS
                 : Distributed cloud service
                 : Cloud network / Reliability
 ```
