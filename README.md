@@ -17,7 +17,32 @@ I focus on large-scale infrastructure, cloud networking, distributed systems, hi
 - 🛡️ Reliability: traffic governance, multi-IDC consistency, failover, observability, RCA
 - ✍️ Long-term notes: architecture, infrastructure, learning methods, career reflection
 
-## Personal Timeline
+## Career Journey
+
+```mermaid
+timeline
+    title singgel's career journey
+    2015.06-2018.04 : CATARC
+                     : Vehicle networking
+                     : C / Java / Netty
+    2018.05-2019.04 : BitAuto Big Data
+                     : Recommendation system
+                     : Kafka / HBase / Redis
+    2019.04-2022.03 : Xueqiu Infra
+                     : Service governance
+                     : Spring Cloud / gRPC / Envoy
+    2022.04-2022.06 : ByteDance People Platform
+                     : HR middle platform
+                     : Go / Java / Kitex
+    2022.07-2026.04 : JDCloud IaaS Network
+                     : SDN and cloud network
+                     : P4 / BGP / DPDK / OVS
+    2026.05-now : ByteDance DCS
+                : Distributed cloud service
+                : Cloud network / Reliability
+```
+
+## Personal Timeline Details
 
 | Period | Organization / Focus | Highlights | Stack |
 | --- | --- | --- | --- |
