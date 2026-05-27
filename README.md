@@ -31,12 +31,15 @@ timeline
     2019-2022 : Xueqiu Infrastructure
               : Spring Cloud governance and company-level middleware platform
               : Microservices / Redis / Zookeeper / Observability
-    2022      : ByteDance People Platform
-              : HR middle-platform service refactoring and high-concurrency caching
-              : Go / Java / Redis / MySQL / Kitex
-    2022-now  : JDCloud IaaS Network
-              : Large-scale SDN control plane and cloud network reliability
-              : Go / Java / P4 / BGP / DPDK / OVS
+    2022.04-2022.06 : ByteDance People Platform
+                     : HR middle-platform service refactoring and high-concurrency caching
+                     : Go / Java / Redis / MySQL / Kitex
+    2022.07-2026.04 : JDCloud IaaS Network
+                     : Large-scale SDN control plane and cloud network reliability
+                     : Go / Java / P4 / BGP / DPDK / OVS
+    2026.05-now     : ByteDance DCS
+                     : Distributed cloud service and infrastructure engineering
+                     : Cloud network / backend / reliability
     2023      : iaas-network
               : Started systematic IaaS cloud network knowledge base
               : BGP / IPv6 / NAT / LB / VPN / VPC
