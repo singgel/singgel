@@ -19,45 +19,30 @@ I focus on large-scale infrastructure, cloud networking, distributed systems, hi
 
 ## Personal Timeline
 
-```mermaid
-timeline
-    title singgel's engineering timeline
-    2015-2018 : CATARC
-              : Vehicle networking and distributed backend foundations
-              : C / Java / Netty / MySQL
-    2018-2019 : BitAuto Big Data
-              : Recommendation system refactoring and data pipeline work
-              : Java / Kafka / HBase / Redis
-    2019-2022 : Xueqiu Infrastructure
-              : Spring Cloud governance and company-level middleware platform
-              : Microservices / Redis / Zookeeper / Observability
-    2022.04-2022.06 : ByteDance People Platform
-                     : HR middle-platform service refactoring and high-concurrency caching
-                     : Go / Java / Redis / MySQL / Kitex
-    2022.07-2026.04 : JDCloud IaaS Network
-                     : Large-scale SDN control plane and cloud network reliability
-                     : Go / Java / P4 / BGP / DPDK / OVS
-    2026.05-now     : ByteDance DCS
-                     : Distributed cloud service and infrastructure engineering
-                     : Cloud network / backend / reliability
-    2023      : iaas-network
-              : Started systematic IaaS cloud network knowledge base
-              : BGP / IPv6 / NAT / LB / VPN / VPC
-    2024      : IGW and BGW
-              : Programmable gateway research and documentation
-              : P4 / Barefoot-Tofino / BGP failover
-    2025      : Cloud network deep dive
-              : P4 gateway, Tofino issues, DPDK/OVS notes, hybrid gateway architecture
-              : Reliability / performance / cost optimization
-    2026      : AI Agent experiments
-              : AI-generated service demos and infrastructure docs modernization
-              : Go / Gin / GORM / AI coding agents
-```
+| Period | Organization / Focus | Highlights | Stack |
+| --- | --- | --- | --- |
+| 2015.06-2018.04 | CATARC | Vehicle networking and distributed backend foundations | C / Java / Netty / MySQL |
+| 2018.05-2019.04 | BitAuto Big Data | Recommendation system refactoring and data pipeline work | Java / Kafka / HBase / Redis |
+| 2019.04-2022.03 | Xueqiu Infrastructure | Spring Cloud governance, middleware platform, observability and infra tooling | Java / Spring Cloud / Redis / Kafka / gRPC / Envoy |
+| 2022.04-2022.06 | ByteDance People Platform | HR middle-platform service refactoring and high-concurrency caching | Go / Java / Redis / MySQL / Kitex |
+| 2022.07-2026.04 | JDCloud IaaS Network | Large-scale SDN control plane, cloud network reliability, programmable gateways | Go / Java / P4 / BGP / DPDK / OVS |
+| 2026.05-now | ByteDance DCS | Distributed cloud service and infrastructure engineering | Cloud network / Backend / Reliability |
+
+## Project Timeline
+
+| Year | Project / Repository | What it records |
+| --- | --- | --- |
+| 2019-2022 | [envoy-infra](https://github.com/singgel/envoy-infra), [grpc-infra](https://github.com/singgel/grpc-infra), [lettuce-infra](https://github.com/singgel/lettuce-infra), [flink-kafka-hbase](https://github.com/singgel/flink-kafka-hbase), [RedisShake](https://github.com/singgel/RedisShake), [RedisFullCheck](https://github.com/singgel/RedisFullCheck) | Xueqiu infrastructure: service governance, observability, Redis migration/check tools and real-time data pipelines. |
+| 2023 | [iaas-network](https://github.com/singgel/iaas-network) | Systematic IaaS cloud network knowledge base: BGP, IPv6, NAT, LB, VPN, VPC, OVS and DPDK. |
+| 2024 | [igw](https://github.com/singgel/igw), [bgw](https://github.com/singgel/bgw) | Programmable gateway research, P4/Barefoot-Tofino practice, BGP failover and hybrid gateway architecture. |
+| 2025 | [ops](https://github.com/singgel/ops) | Cloud-network operations notes, NAT/LB/controller APIs and reliability practices. |
+| 2026 | [AI-Agent-Test](https://github.com/singgel/AI-Agent-Test) | AI-agent generated service demos and infrastructure documentation modernization. |
 
 ## What I'm building / organizing
 
 | Area | Repository | Notes |
 | --- | --- | --- |
+| Xueqiu infra / service governance | [envoy-infra](https://github.com/singgel/envoy-infra), [grpc-infra](https://github.com/singgel/grpc-infra), [lettuce-infra](https://github.com/singgel/lettuce-infra), [flink-kafka-hbase](https://github.com/singgel/flink-kafka-hbase), [RedisShake](https://github.com/singgel/RedisShake), [RedisFullCheck](https://github.com/singgel/RedisFullCheck) | Infrastructure repositories from the Xueqiu period: Envoy/gRPC governance, metrics/tracing/logging, Redis tooling and Kafka-to-HBase pipelines. |
 | IaaS cloud network | [iaas-network](https://github.com/singgel/iaas-network) | Systematic notes for BGP, IPv6, VPC, NAT, LB, VPN, OVS, DPDK and cloud network products. |
 | Internet gateway | [igw](https://github.com/singgel/igw) | Unified public gateway, P4 pipeline, Barefoot/Tofino practice, rate limiting and failover notes. |
 | Border gateway | [bgw](https://github.com/singgel/bgw) | Hybrid border gateway, VPC connectivity, BGP convergence and multi-cluster disaster recovery. |
