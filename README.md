@@ -59,7 +59,7 @@ timeline
 | --- | --- | --- |
 | 2019-2022 | [envoy-infra](https://github.com/singgel/envoy-infra), [grpc-infra](https://github.com/singgel/grpc-infra), [lettuce-infra](https://github.com/singgel/lettuce-infra), [flink-kafka-hbase](https://github.com/singgel/flink-kafka-hbase), [RedisShake](https://github.com/singgel/RedisShake), [RedisFullCheck](https://github.com/singgel/RedisFullCheck) | Xueqiu infrastructure: service governance, observability, Redis migration/check tools and real-time data pipelines. |
 | 2023 | [iaas-network](https://github.com/singgel/iaas-network) | Systematic IaaS cloud network knowledge base: BGP, IPv6, NAT, LB, VPN, VPC, OVS and DPDK. |
-| 2024 | [igw](https://github.com/singgel/igw), [bgw](https://github.com/singgel/bgw) | Programmable gateway research, P4/Barefoot-Tofino practice, BGP failover and hybrid gateway architecture. |
+| 2024 | [igw](https://github.com/singgel/igw), [igw-p4](https://github.com/singgel/igw-p4), [bgw](https://github.com/singgel/bgw), [bgw-p4](https://github.com/singgel/bgw-p4) | Programmable gateway research, P4/Barefoot-Tofino practice, source code, BGP failover and hybrid gateway architecture. |
 | 2025 | [ops](https://github.com/singgel/ops) | Cloud-network operations notes, NAT/LB/controller APIs and reliability practices. |
 | 2026 | [AI-Agent-Test](https://github.com/singgel/AI-Agent-Test) | AI-agent generated service demos and infrastructure documentation modernization. |
 
@@ -69,8 +69,8 @@ timeline
 | --- | --- | --- |
 | Xueqiu infra / service governance | [envoy-infra](https://github.com/singgel/envoy-infra), [grpc-infra](https://github.com/singgel/grpc-infra), [lettuce-infra](https://github.com/singgel/lettuce-infra), [flink-kafka-hbase](https://github.com/singgel/flink-kafka-hbase), [RedisShake](https://github.com/singgel/RedisShake), [RedisFullCheck](https://github.com/singgel/RedisFullCheck) | Infrastructure repositories from the Xueqiu period: Envoy/gRPC governance, metrics/tracing/logging, Redis tooling and Kafka-to-HBase pipelines. |
 | IaaS cloud network | [iaas-network](https://github.com/singgel/iaas-network) | Systematic notes for BGP, IPv6, VPC, NAT, LB, VPN, OVS, DPDK and cloud network products. |
-| Internet gateway | [igw](https://github.com/singgel/igw) | Unified public gateway, P4 pipeline, Barefoot/Tofino practice, rate limiting and failover notes. |
-| Border gateway | [bgw](https://github.com/singgel/bgw) | Hybrid border gateway, VPC connectivity, BGP convergence and multi-cluster disaster recovery. |
+| Internet gateway | [igw](https://github.com/singgel/igw), [igw-p4](https://github.com/singgel/igw-p4) | Unified public gateway docs plus P4 source code: pipeline design, Barefoot/Tofino practice, rate limiting and failover notes. |
+| Border gateway | [bgw](https://github.com/singgel/bgw), [bgw-p4](https://github.com/singgel/bgw-p4) | Hybrid border gateway docs plus P4 source code: VPC connectivity, BGP convergence and multi-cluster disaster recovery. |
 | Operations notes | [ops](https://github.com/singgel/ops) | Infrastructure operations notes around LB/NAT, private connectivity, controller APIs and daily practices. |
 | AI coding | [AI-Agent-Test](https://github.com/singgel/AI-Agent-Test) | AI-agent generated Go service examples and engineering experiments. |
 | Personal notes | [notify](https://github.com/singgel/notify) | Notes to future self, learning methods, career reflections and knowledge fragments. |
