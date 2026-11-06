@@ -45,4 +45,4 @@ I focus on large-scale infrastructure, cloud networking, programmable data plane
 - 📘 Zhihu: [知乎 @gexingyumi](https://www.zhihu.com/people/gexingyumi/posts)
 - 📗 Juejin: [掘金](https://juejin.cn/user/4055442887022119)
 - 💻 Stack Overflow: [singgel](https://stackoverflow.com/users/10727010/singgel)
-- 📫 Email: hekuangsheng@gmail.com
+- 📫 Email: 18670310+singgel@users.noreply.github.com
